@@ -1,0 +1,27 @@
+{
+  "name": "whitewalker",
+  "version": "1.0.0",
+  "description": "filter objects by whitelist policies",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickgirard/whitewalker.git"
+  },
+  "keywords": [
+    "object",
+    "filter",
+    "whitelisting"
+  ],
+  "author": "Erick Girard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erickgirard/whitewalker/issues"
+  },
+  "homepage": "https://github.com/erickgirard/whitewalker#readme",
+  "devDependencies": {
+    "jest": "^22.2.2"
+  }
+}
