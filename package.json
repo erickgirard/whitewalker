@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/erickgirard/whitewalker.git"
   },
-  "keywords": ["object", "filter", "whitelisting"],
+  "keywords": ["object", "filter", "whitelist", "validation"],
   "author": "Erick Girard",
   "license": "MIT",
   "bugs": {
