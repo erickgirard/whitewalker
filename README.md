@@ -14,7 +14,7 @@ Simple object properties whitelisting
 ### Example usage
 
 ```javascript
-const { whitelist } = require("@erickgirard/whitelist");
+const { whitelist } = require("@erickgirard/whitewalker");
 
 const simpleObject = {
   prop1: "value1",

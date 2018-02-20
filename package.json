@@ -1,6 +1,6 @@
 {
   "name": "@erickgirard/whitewalker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "filter objects by whitelist policies",
   "main": "index.js",
   "scripts": {
