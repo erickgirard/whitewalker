@@ -8,7 +8,7 @@ Simple object properties whitelisting
 
 ### Args
 
-* {object} source - the object or array you want to filter
+* {object} source - the object you want to filter
 * {object | array} whitelist - an object or array containing the key you want the returned object to keep
 
 ### Example usage
